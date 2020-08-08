@@ -11,5 +11,9 @@
 ---
 ##### Looks like nothing :c
 
+<br />
+<br />
+
 [artix]: https://artixlinux.org/
 [nvim]: https://neovim.io/
+
