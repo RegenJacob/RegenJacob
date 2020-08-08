@@ -2,8 +2,8 @@
 
 ### What i use:
 ---
-[<img align="left" alt="ArtixLinux" width="22px" src="https://simpleicons.org/icons/linux.svg" />] [artix]
-[<img align="left" alt="NeoVim" width="22px" src="https://simpleicons.org/icons/neovim.svg" />] [nvim]
+[<img align="left" alt="ArtixLinux" width="22px" src="https://simpleicons.org/icons/linux.svg" />][artix]
+[<img align="left" alt="NeoVim" width="22px" src="https://simpleicons.org/icons/neovim.svg" />][nvim]
 
 <br />
 
