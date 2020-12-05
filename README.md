@@ -14,3 +14,4 @@
 [linux]: https://www.gentoo.org/
 [nvim]: https://neovim.io/
 
+[![My's github stats](https://github-readme-stats.vercel.app/api?username=RegenJacob)](https://github.com/anuraghazra/github-readme-stats)
