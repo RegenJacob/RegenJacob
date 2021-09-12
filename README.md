@@ -1,17 +1,13 @@
 # Hi there, I'm Jacob - aka RegenJacob
----
-## What i use:
-[<img align="left" alt="Gentoo Linux" width="22px" src="https://simpleicons.org/icons/gentoo.svg" />][linux]
-[<img align="left" alt="NeoVim" width="22px" src="https://simpleicons.org/icons/neovim.svg" />][nvim]<br />
+Im a Student and i code in my free time
 
----
+### Tools i use:
+[<img align="left" alt="Linux" width="22px" src="https://simpleicons.org/icons/linux.svg" />][linux]
+[<img align="left" alt="NeoVim" width="22px" src="https://simpleicons.org/icons/neovim.svg" />][nvim] <br/>
 
-## Programms and tools from me:
-##### Looks like nothing :c
+### Stats:
+![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=RegenJacob&show_icons=true&theme=onedark) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RegenJacob&langs_count=8&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-[linux]: https://www.gentoo.org/
+[linux]: https://www.kernel.org/
 [nvim]: https://neovim.io/
-
-[![My's github stats](https://github-readme-stats.vercel.app/api?username=RegenJacob)](https://github.com/anuraghazra/github-readme-stats)
