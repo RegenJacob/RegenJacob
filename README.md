@@ -1,5 +1,5 @@
 # Hi there, I'm Jacob - aka RegenJacob
-Im a Student and i code in my free time
+I'm a student and I code in my free time.
 
 ### Tools i use:
 [<img align="left" alt="Linux" width="22px" src="https://simpleicons.org/icons/linux.svg" />][linux]
